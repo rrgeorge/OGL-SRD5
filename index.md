@@ -10,13 +10,13 @@
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs and messages, or to simply create rich text using a plain text or markkdown editor.
 
-These SRD files contained herein are edited line-by-line into Markdown format for export to other publishing formats or into your own 5E projects. We have painstakingly REmastered the original Wizard's SRD v5.1 PDF to markdown, _plus all errata from the Nov 2018 update_. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account, or make any corrections through a Github pull request. 
+These SRD files contained herein are edited line-by-line into Markdown format for export to other publishing formats or into your own 5E projects. We have painstakingly REmastered the original Wizard's SRD v5.1 PDF to markdown, plus all errata from the _Nov 2018 update_. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account, or make any corrections through a Github pull request. 
 
 Report any errors directly through Github, _A free Github account/membership is required_. We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
 
 #### Downloads
 
-* View or download the [REmastered file in other formats](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
+* Download the [REmastered SRD file in selected formats](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
