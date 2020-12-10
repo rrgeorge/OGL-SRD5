@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+---
+title: Introduction
+media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKeyArt2.jpg'
+---
 
-You can use the [editor on GitHub](https://github.com/Umbyology/OGL-SRD5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[center]**Update: REmastered Formats v0.4.2 Now Available! | [Content Updated Nov 23rd, 2020](https://ogl-srd5.com/changelog)**[/center]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![REmastered Logo](RE&.logo.1000.286.144.png)
 
-### Markdown
+![Fan Site Kit Image](ToDKeyArt2.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (Wizards SRD v5.1 w/Errata) REmastered in Markdown & Microsoft Word Formats!
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+**The Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
 
-- Bulleted
-- List
+**Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs and messages, or to simply create rich text using a plain text or markkdown editor.
 
-1. Numbered
-2. List
+! The documents contained herein are edited line-by-line into Markdown format for export to other publishing formats or into your own 5E projects. We have painstakingly REmastered the original Wizard's SRD v5.1 PDF to markdown, **plus all errata from the Nov 2018 update**. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account, or make any corrections through a Github pull request. 
 
-**Bold** and _Italic_ and `Code` text
+#### Website Features
+1. **Powerful search engines**. Word search any page in the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the recommended advanced full-text search feature (also upper-left sidebar), or your can perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+2. **Error reporting**. Report any errors directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** _A free Github account/membership is required_.
+3. We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
 
-[Link](url) and ![Image](src)
-```
+#### Downloads
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* View or Download each [REmastered Markdown Page](https://github.com/Umbyology/OGL-SRD5/find/master)
+* View or download the [REmastered file in other formats](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
+* Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+* Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
+* Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
-### Jekyll Themes
+#### Official D&D Core Rule Books
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Umbyology/OGL-SRD5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| <center>[Player's Handbook](https://amzn.to/2UydxSQ)</center>                                                                             | <center>[Dungeon Master's Guide](https://amzn.to/2R4UcGP)</center>                                                                       | <center>[Monster Manual](https://amzn.to/2w59Nim)</center>                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| ![PHB](DnD_PHB.jpg)                                                                                                                       | ![DMG](DnD_DMG.jpg)                                                                                                                      | ![MM](DnD_MM.jpg)                                                                                                                 |
 
-### Support or Contact
+<hr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
+
+Website, markdown conversion and extended formats by [B.A. Umberger](http://www.umbyology.com) in cooperation with [Juxtagames, LLC](http://www.juxta.games). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit). Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries.
