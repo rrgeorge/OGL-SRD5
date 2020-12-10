@@ -14,7 +14,7 @@ These SRD files contained herein are edited line-by-line into Markdown format fo
 
 * Report any [errors](https://github.com/Umbyology/OGL-SRD5/issues).
 * Feedback and [Discussions](https://github.com/Umbyology/OGL-SRD5/discussions).
-* View the [Wiki](https://github.com/Umbyology/OGL-SRD5/wiki0.
+* View the [Wiki](https://github.com/Umbyology/OGL-SRD5/wiki).
 
 We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
 
