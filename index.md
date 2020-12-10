@@ -13,8 +13,8 @@
 These SRD files contained herein are edited line-by-line into Markdown format for export to other publishing formats or into your own 5E projects. We have painstakingly REmastered the original Wizard's SRD v5.1 PDF to markdown, plus all errata from the _Nov 2018 update_. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account, or make any corrections through a Github pull request. 
 
 * Report any [errors](https://github.com/Umbyology/OGL-SRD5/issues).
-* Feedback and [Discussions](https://github.com/Umbyology/OGL-SRD5/discussions).
-* View the [Wiki](https://github.com/Umbyology/OGL-SRD5/wiki).
+* Feedback and [discussions](https://github.com/Umbyology/OGL-SRD5/discussions).
+* View the [wiki](https://github.com/Umbyology/OGL-SRD5/wiki).
 
 We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
 
