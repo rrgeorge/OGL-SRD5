@@ -2,7 +2,7 @@
 
 ![Fan Site Kit Image](ToDKeyArt2.jpg)
 
-<right>View the [Changelog](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md)</right>
+View the [Changelog](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md)
 
 This is an adaptation of the D&D 5E SRD available in Markdown (.MD), Microsoft Word (.DOCX), Adobe InCopy/InDesign (.ICML) and many other publishing formats.
 
