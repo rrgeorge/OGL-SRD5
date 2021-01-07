@@ -26,7 +26,7 @@ Feel free to visit our [discussions](https://github.com/Umbyology/OGL-SRD5/discu
 
 #### Official D&D Core Rule Books
 
-| <center>Player's Handbook</center>                                                                             | <center>Dungeon Master's Guide</center>                                                                       | <center>Monster Manual</center>                                                                        |
+| <center>[Player's Handbook](https://amzn.to/2Lq2NE4)</center>                                                                             | <center>[Dungeon Master's Guide](https://amzn.to/3ol45ic)</center>                                                                       | <center>[Monster Manual](https://amzn.to/2JQ2t0U)</center>                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | ![PHB](DnD_PHB.jpg)                                                                                                                       | ![DMG](DnD_DMG.jpg)                                                                                                                      | ![MM](DnD_MM.jpg)                                                                                                                 |
 
